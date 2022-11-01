@@ -29,7 +29,7 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
     * XGBoost Classifier
     * KNeighbors Classifier
     * Decision Tree
- - Evaluate models: since want to minimize False Negative (incorrectly predict fraudulent jobs as non-fraudulent), we pay more attention to Recall and F2 score
+ - Evaluate models: since want to use minimize False Negative (incorrectly predict fraudulent jobs as non-fraudulent), we pay more attention to Recall and F2 score. When there are more than 1 model with approximately the same recall and F2 score, we take other evaluation metrics (accuracy, prediction, F1 score) in to consideration.
     + XGBoost has the best overall performance on the test set: 
       * XGB Accuracy: 98.6%
       * XGB Recall: 79.2%
