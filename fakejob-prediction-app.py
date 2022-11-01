@@ -15,6 +15,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from xgboost import XGBClassifier
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 st.title("Fake Job Prediction")
 st.write("The app helps in knowing the likelihood of a posted job being fraudulent versus being non-fraudulent. Upon opening the app, the user is prompted to enter few details about the job ad, and based on the XGBoost model used, the user gets to know the likelihood of the job being fraudulent or non-fraudulent. XGBoost is the best model among 6 models we have tested, with the accuracy of 98.6%, precision 92.4%, recall 79.2%.")
