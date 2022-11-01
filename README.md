@@ -9,7 +9,7 @@ This is a group project for IE0005 - Intro to Data Science & AI module, Sem 1 AY
 GitHub link: https://github.com/ptlinh1803/IE0005-fake-job-detection.git <br>
 
 ## Project description
-University students and experienced hires are always on the run to find new opportunities. This is often marked by applying to different roles, only to find out that those jobs were fraudulent. This leads to confusions, and most often, results in financial scams also during the application process.
+University students and experienced hires are always on the run to find new opportunities. This is often marked by applying to different roles, only to find out that those jobs were fraudulent. This leads to confusion, and most often, results in financial scams also during the application process.
 <br><br>
 Through this project, we aim to classify jobs as fraudulent versus non-fraudulent based on the dataset, further classifying based on location and other factors such as education, function, industry and required experience. All of this comes to life mostly after screening non-essential, yet important factors such as the steps in hiring process.
 <br><br>
