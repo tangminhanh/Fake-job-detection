@@ -13,6 +13,7 @@ from nltk.stem import SnowballStemmer
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from xgboost import XGBClassifier
+nltk.download('stopwords')
 
 
 st.title("Fake Job Prediction")
