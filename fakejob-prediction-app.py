@@ -3,7 +3,6 @@ import sklearn
 import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
-import pickle
 import string
 import re
 import nltk
