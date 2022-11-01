@@ -54,3 +54,15 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
  - <b>Use the app online:</b>
     + Streamlit app link: https://ptlinh1803-ie0005-fake-job-detect-fakejob-prediction-app-og5bti.streamlitapp.com/
 
+## References
+- https://analyticsindiamag.com/classifying-fake-and-real-job-advertisements-using-machine-learning/
+- https://www.kaggle.com/code/shivamburnwal/nlp-98-acc-eda-with-model-using-spacy-pipeline
+- https://machinelearningmastery.com/tour-of-evaluation-metrics-for-imbalanced-classification/
+- https://medium.com/analytics-vidhya/applying-text-classification-using-logistic-regression-a-comparison-between-bow-and-tf-idf-1f1ed1b83640
+- https://docs.streamlit.io/library/cheatsheet
+- https://stats.stackexchange.com/questions/251871/vectorization-of-data-before-splitting-in-to-test-and-train-with-neural-network
+- https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html
+- https://machinelearningmastery.com/fbeta-measure-for-machine-learning/
+- https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
+- https://machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification/#:~:text=Oversampling%20methods%20duplicate%20or%20create,of%20methods%20are%20used%20together.
