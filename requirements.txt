@@ -4,3 +4,7 @@ seaborn
 matplotlib
 pandas
 scikit-learn
+string
+re
+nltk
+xgboost
