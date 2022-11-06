@@ -31,11 +31,11 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
     * Decision Tree
  - Evaluate models: since want to use minimize False Negative (incorrectly predict fraudulent jobs as non-fraudulent), we pay more attention to Recall and F2 score. When there are more than 1 model with approximately the same recall and F2 score, we take other evaluation metrics (accuracy, prediction, F1 score) in to consideration.
     + Logistic Regression has the best overall performance on the test set: 
-      * XGB Accuracy: 98.6%
-      * XGB Recall: 79.2%
-      * XGB Precision: 92.4%
-      * XGB F1 score: 0.853
-      * XGB F2 score: 0.815
+      * Logistic Regression Accuracy: 0.98
+      * Logistic Regression Recall: 0.87
+      * Logistic Regression Precision: 0.76
+      * Logistic Regression F2 score: 0.845
+      * Logistic Regression ROC AUC Score 0.93
 - Build the streamlit app: deploy the app using Streamlit Cloud and GitHub (Linh, Jose, Sparsh)
 
 ## Files
