@@ -156,7 +156,7 @@ corpus = tfidf.transform(corpus)
 
 #Load model---------------------------------------------------------------------------------------
 
-model = load('logregmodel.joblib') 
+model = joblib.load('logregmodel.joblib') 
 
 #Predict-------------------------------------------------------------------------------------------
 st.subheader("Our Logistic Regression Model Predicts that this Job ad is: ")
