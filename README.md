@@ -44,7 +44,7 @@ This dataset contains 18K job descriptions out of which about 800 are fake. The 
 - fake_job_postings.csv: the dataset
 - fakejob-prediction-app.py: the streamlit app
 - requirements.txt: libraries requirements for the app to run
-- xgbmodel.json: extract and save the XGBoost model for the app to use
+- logregmodel.joblib: extract and save the Logistic Regression model for the app to use
 - copyXtrain.csv: copy of the X_train before vectorization (used again in the streamlit app)
 
 ## Application
