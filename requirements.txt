@@ -6,4 +6,4 @@ pandas
 scikit-learn
 regex
 nltk
-xgboost
+joblib
