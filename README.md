@@ -7,6 +7,7 @@ This is a group project for IE0005 - Intro to Data Science & AI module, Sem 1 AY
 - Agrawal Sparsh (EEE/Y2)
 
 GitHub link: https://github.com/ptlinh1803/IE0005-fake-job-detection.git <br>
+Streamlit app link: https://ptlinh1803-ie0005-fake-job-detect-fakejob-prediction-app-og5bti.streamlitapp.com/
 
 ## Project description
 University students and experienced hires are always on the run to find new opportunities. This is often marked by applying to different roles, only to find out that those jobs were fraudulent. This leads to confusion, and most often, results in financial scams also during the application process.
