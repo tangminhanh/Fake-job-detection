@@ -6,7 +6,6 @@ This is a group project for IE0005 - Intro to Data Science & AI module, Sem 1 AY
 - Paramel Jose Paul (EEE/Y2)
 - Agrawal Sparsh (EEE/Y2)
 
-GitHub link: https://github.com/ptlinh1803/IE0005-fake-job-detection.git <br>
 Streamlit app link: https://ptlinh1803-ie0005-fake-job-detect-fakejob-prediction-app-og5bti.streamlitapp.com/
 
 ## Project description
